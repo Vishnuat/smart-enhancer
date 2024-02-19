@@ -1,5 +1,4 @@
 pyrogram
-hashlib
 httpx
 asyncio
 aiogram
