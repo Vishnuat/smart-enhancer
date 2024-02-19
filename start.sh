@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
-git clone https://github.com/ZauteKm/Text-Scanner-OCR.git /Text-Scanner-OCR
-cd /Text-Scanner-OCR
+git clone https://github.com/Vishnuat/smart-enhancer.git /smart-enhancer
+cd /smart-enhancer
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
-python3 bot.py
+python smart-enhancer.py
